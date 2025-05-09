@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678208119 source:c:\users\hp\desktop\programy na github\c++\programs\sprawdza czy ktos jest pelnotelni\sprawdza czy ktos jest pelnotelni\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
