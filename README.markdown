@@ -22,6 +22,8 @@ _A C++ console application to verify age eligibility for running for president i
 
 The **Norway Presidential Age Verifier**, developed by Adrian Lesniak, is a C++ console application designed to determine if a user meets the age requirement to run for president in Norway. It presents a simple graphical interface within the console, featuring a drawn input box for age entry and a "Check Age" button element. The program utilizes Windows-specific console functions for cursor positioning (`SetConsoleCursorPosition`) and screen clearing (`system("cls")`). It includes input validation to handle non-numeric entries and provides clear feedback based on whether the entered age meets the eligibility criteria (≥40 years), is adult but not eligible (≥18), or is underage (<18).
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   🖼️ **Graphical Console Interface**:
@@ -44,9 +46,16 @@ The **Norway Presidential Age Verifier**, developed by Adrian Lesniak, is a C++ 
 
 ## 🖼️ Screenshots (Conceptual)
 
-**Coming soon!**
 
-_This section would ideally show a screenshot of the console window displaying the title, the ASCII input box with the prompt, the "[Check Age]" button, and an example result message._
+_This section ideally show a screenshot of the console window displaying the title, the ASCII input box with the prompt, the "[Check Age]" button, and an example result message._
+
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+   <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+</p>
 
 ## ⚙️ System Requirements
 
